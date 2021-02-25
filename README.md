@@ -1,5 +1,5 @@
 # Recipepie
-## Social network for people who like cooking.
+## Social network for people who love cooking.
 ### Features:
 - Registration on the website (with email and with google) and publishing recipes on the platform (instagram-looking, each recipe - separate post).
 - Everyone who is not registered can view public recipes for free with some constraints (not seeing list of ingredients and last part of the recipe).
