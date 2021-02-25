@@ -16,3 +16,8 @@
 - Websockets
 - Database - Postgres 13
 - CI/CD - Docker, github actions
+- SSR - Nuxt.js
+- Deployment - Digital Ocean
+### Non-functional
+- Supported browsers: Chrome, Safari, Firefox
+- Server Side Rendering
