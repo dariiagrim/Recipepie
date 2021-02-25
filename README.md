@@ -10,6 +10,7 @@
 - Chat.
 - Adding recipes to favourite (list of favourites will be available on a separate page and in bot).
 - Telegram bot for viewing favourite recipes and implementing simple search.
+- Ingredients dictionary.
 ### Technologies
 - Backend - NodeJS(Fastify, Typescript)
 - Frontend - VueJS 3 (Typescript)
